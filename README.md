@@ -10,7 +10,7 @@
 ## Installation
 
 ```
-$ npm install -g readme-example
+$ npm install markdown-reading-time
 ```
 
 ## Usage
